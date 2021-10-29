@@ -21,5 +21,6 @@ namespace AdShopSolution.Data.Entities
 
         public Language Language { get; set; }
 
+
     }
 }

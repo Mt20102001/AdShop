@@ -1,5 +1,6 @@
 using System;
 using AdShopSolution.Data.Enums;
+using System.Collections.Generic;
 
 namespace AdShopSolution.Data.Entities
 {
@@ -11,5 +12,8 @@ namespace AdShopSolution.Data.Entities
         public int? ParentId { get; set; }
         public Status Status { get; set; }
 
+        public List<ProductInCategory> ProductInCategories { get; set; }
+
+        public List<CategoryTranslation> CategoryTranslations { get; set; }
     }
 }

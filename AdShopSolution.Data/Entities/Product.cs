@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace AdShopSolution.Data.Entities
 {
@@ -12,5 +13,12 @@ namespace AdShopSolution.Data.Entities
         public DateTime DateCreated { get; set; }
         public String SeoAlias { get; set; }
 
+        public List<ProductInCategory> ProductInCategories { get; set; }
+
+        public List<OrderDetail> OrderDetails { get; set; }
+
+        public List<Cart> Carts { get; set; }
+
+        public List<ProductTranslation> ProductTranslations { get; set; }
     }
 }

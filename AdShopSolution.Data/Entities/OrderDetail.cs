@@ -15,6 +15,5 @@ namespace AdShopSolution.Data.Entities
         public Order Order { get; set; }
 
         public Product Product { get; set; }
-
     }
 }
