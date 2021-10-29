@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AdShopSolutionDb": "Server=localhost;Database=AdShopSolution;Trusted_Connection=True;"
+  }
+}
