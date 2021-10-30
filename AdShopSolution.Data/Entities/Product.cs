@@ -11,7 +11,6 @@ namespace AdShopSolution.Data.Entities
         public int Stock { get; set; }
         public int ViewCount { get; set; }
         public DateTime DateCreated { get; set; }
-        public String SeoAlias { get; set; }
 
         public List<ProductInCategory> ProductInCategories { get; set; }
 

@@ -3,6 +3,7 @@ using System.Text;
 using System.Collections.Generic;
 using AdShopSolution.Data.Entities;
 using Microsoft.EntityFrameworkCore;
+using AdShopSolution.Data.Extensions;
 using AdShopSolution.Data.Configurations;
 
 namespace AdShopSolution.Data.EF
@@ -15,6 +16,7 @@ namespace AdShopSolution.Data.EF
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //Configure using Fluent API
             modelBuilder.ApplyConfiguration(new CartConfiguration());
 
             modelBuilder.ApplyConfiguration(new AppConfigConfiguration());
@@ -31,6 +33,8 @@ namespace AdShopSolution.Data.EF
             modelBuilder.ApplyConfiguration(new PromotionConfiguration());
             modelBuilder.ApplyConfiguration(new TransactionConfiguration());
 
+            //Data seeding
+            modelBuilder.Seed();
             //base.OnModelCreating(modelBuilder);
         }
 
