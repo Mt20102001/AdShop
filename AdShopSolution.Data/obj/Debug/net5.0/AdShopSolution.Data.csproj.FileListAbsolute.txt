@@ -1,0 +1,15 @@
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/AdShopSolution.Data.deps.json
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/AdShopSolution.Data.runtimeconfig.json
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/AdShopSolution.Data.runtimeconfig.dev.json
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/AdShopSolution.Data.dll
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/ref/AdShopSolution.Data.dll
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/bin/Debug/net5.0/AdShopSolution.Data.pdb
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.csproj.AssemblyReference.cache
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.AssemblyInfoInputs.cache
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.AssemblyInfo.cs
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.csproj.CoreCompileInputs.cache
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.dll
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/ref/AdShopSolution.Data.dll
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.pdb
+/home/minhtuan/Documents/C#/Test/AdShopSolution.Data/obj/Debug/net5.0/AdShopSolution.Data.genruntimeconfig.cache
